@@ -1,0 +1,8 @@
+"ixhl2rp"
+{
+	"base"		"helix"
+	"title"		"Metro RP"
+	"author"	"ASPIRATION project"
+	"category"	"rp, pvp, pve, rpg"
+	"menusystem" "1"
+}
